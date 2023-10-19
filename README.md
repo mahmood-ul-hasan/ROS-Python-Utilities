@@ -5,3 +5,6 @@ This repository hosts a collection of Python utility scripts and tools for simpl
 
 
 [![Alt text](https://img.youtube.com/vi/4Y9ndViLJgQ/0.jpg)](https://www.youtube.com/watch?v=4Y9ndViLJgQ)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Y9ndViLJgQ" frameborder="0" allowfullscreen></iframe>
