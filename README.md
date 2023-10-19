@@ -3,4 +3,5 @@ This repository hosts a collection of Python utility scripts and tools for simpl
 
 [![Video Title](https://youtu.be/4Y9ndViLJgQ)
 
-[![Alt text](https://img.youtube.com/vi/4Y9ndViLJgQ/0.jpg)](https://www.youtube.com/4Y9ndViLJgQ)
+
+[![Alt text](https://img.youtube.com/vi/4Y9ndViLJgQ/0.jpg)](https://www.youtube.com/watch?v=4Y9ndViLJgQ)
