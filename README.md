@@ -11,7 +11,7 @@ This Python script is designed to convert ROS `nav_msgs/Odometry` messages into 
 
 To use this script, follow these steps:
 
-1. Modify these lines to specify the actual names of your ROS topics in the script:
+Modify these lines to specify the actual names of your ROS topics in the script:
 
    ```python
    self.gt_path_pub = rospy.Publisher("path_topic_name", Path, queue_size=2)
