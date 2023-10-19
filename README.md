@@ -3,6 +3,7 @@ This repository hosts a collection of Python utility scripts and tools for simpl
 
 # odom_to_path.py - ROS Odometry to Path Converter
 
+
 ## Overview
 
 The "odom_to_path.py" script is a Python utility for converting ROS Odometry data into a ROS Path. This tool simplifies the visualization and tracking of a robot's path in ROS environments, especially when using tools like RViz.
